@@ -1,6 +1,6 @@
 #!/usr/bin/env python2
-# version 2.13
-# author tobyrosen@gmail.com
+# version  2.13
+# author   tobyrosen@gmail.com
 
 # Copyright (c) 2011-2015, Toby Rosen
 # All rights reserved.
